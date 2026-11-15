@@ -1,4 +1,4 @@
-# 📚 Exercício – Conta Bancária em Python
+# 📚 Exercício – Conta Bancária em Java
 
 Este repositório contém a solução do exercício **“Conta Bancária”**, que implementa uma classe capaz de:
 
